@@ -1,3 +1,3 @@
-FROM debian:jessie
+FROM gcr.io/google-appengine/nodejs:latest
 
-RUN apt-get update && apt-get install -y jq
+RUN echo Hello
