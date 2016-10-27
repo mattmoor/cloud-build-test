@@ -1,3 +1,3 @@
-FROM gcr.io/google-appengine/java-compate:latest
+FROM gcr.io/google-appengine/java-compat:latest
 
 RUN echo Hello Jon
