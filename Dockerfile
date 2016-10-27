@@ -1,3 +1,3 @@
-FROM gcr.io/google-appengine/nodejs:latest
+FROM gcr.io/google-appengine/java-compate:latest
 
-RUN echo Hello
+RUN echo Hello Jon
