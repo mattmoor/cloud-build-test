@@ -1,3 +1,3 @@
-FROM gcr.io/google-appengine/java-compat:latest
+FROM alpine:latest
 
 RUN echo Hello Jon
